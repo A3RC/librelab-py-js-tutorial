@@ -24,7 +24,7 @@ const contentFiles = {
 		file: 'Strategies-for-Balancing-Chemical-Equations.md',
 		image: './assets/Chemical Balancing.png',
 	},
-	'Basic-system-mainteanance-for-Arch-based-systems': {
+	'Basic-system-maintenance-for-Arch-based-systems': {
 		title: 'Basic system mainteanance for Arch based systems',
 		file: 'Basic-system-maintenance-for-Arch-based-systems.md',
 		image: './assets/Archlinuxlogocolorfull.png',
