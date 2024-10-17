@@ -8,7 +8,7 @@ If you're looking to learn web development, game development, or programming, th
 - **YouTube Channel**: [Clear Code](https://www.youtube.com/@ClearCode)  
 
 
-- ![Clear Code](/assets/tutorial-assets/clear-code-channel.png) 
+- ![Clear Code](./assets/tutorial-assets/clear-code-channel.png) 
 - **Popular Video**: [Pygame Tutorial for Beginners](https://www.youtube.com/watch?v=mDKM-JtUhhc&ab_channel=ClearCode)
 
 ### Super Simple Dev
@@ -16,7 +16,7 @@ If you're looking to learn web development, game development, or programming, th
 
 - **YouTube Channel**: [Super Simple Dev](https://www.youtube.com/@supersimpledev)  
 
-- ![Super Simple Dev](/assets/tutorial-assets/supersimpledev-channel-photo.png)
+- ![Super Simple Dev](./assets/tutorial-assets/supersimpledev-channel-photo.png)
 - **Popular Video**: [JavaScript for Beginners](https://youtu.be/EerdGm-ehJQ?si=We5BRRa_fDHSZaUK)
 
 
