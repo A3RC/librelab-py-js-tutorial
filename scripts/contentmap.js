@@ -8,5 +8,10 @@ const contentFiles = {
     title: "Best Youtuber to learn Python and JavaScript",
     file: "tutorial.md",
     image: "./assets/tutorial-assets/js-yt.png"
-  }
+  },
+  "Strategies for Balancing Chemical Equations":{
+    title: "Strategies for Balancing Chemical Equations ",
+    file: "Strategies-for-Balancing-Chemical-Equations.md",
+    image: "./assets/chemical Balancing.png",
+  },
 };
