@@ -60,7 +60,7 @@ With markdown as the primary form of content, LibreLab aims on the making the pr
 
 ### Making the Necessary Changes
 
-- Please view this video for clarification [Youtube Link](https://youtu.be/7hH8soFRw2w?feature=shared&t=212)
+- Please view this video for clarification [Youtube Link](https://www.youtube.com/watch?v=gXQslEK__vc)
 
 - add a markdown file with the content of your choice to ./content folder
 - after adding the content, goto scripts/contentmap.js and add the following lines of code.
