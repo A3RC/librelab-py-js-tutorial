@@ -4,6 +4,11 @@ const contentFiles = {
     file: "contributing.md",
     image: "./assets/contributing illustration.png",
   },
+  "ai-hacks": {
+    title: "AI Tools Unleashed",
+    file: "ai.md",
+    image : "./assets/ai/aiThumbnail.jpg",
+  },
   "best-youtuber-to-learn-python-and-javascript": {
     title: "Best Youtuber to learn Python and JavaScript",
     file: "tutorial.md",
