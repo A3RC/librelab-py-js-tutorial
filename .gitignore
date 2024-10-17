@@ -1,4 +1,2 @@
 tailwind.config.js
-{
-    "liveServer.settings.port": 5501
-}
+/.vscode/
