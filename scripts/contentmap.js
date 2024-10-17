@@ -4,6 +4,11 @@ const contentFiles = {
     file: "contributing.md",
     image: "./assets/contributing illustration.png",
   },
+  "A4": {
+    title: "A4:The ultimate discord server",
+    file: "a4.md",
+    image: "./assets/a4/a4_png.jpeg",
+  },
   "ai-hacks": {
     title: "AI Tools Unleashed",
     file: "ai.md",
@@ -20,3 +25,4 @@ const contentFiles = {
     image: "./assets/Chemical Balancing.png",
   },
 };
+
